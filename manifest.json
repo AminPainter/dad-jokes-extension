@@ -1,0 +1,9 @@
+{
+    "name": "DadJokes",
+    "description": "Get a random joke while debugging your codebase",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html"
+    }
+}

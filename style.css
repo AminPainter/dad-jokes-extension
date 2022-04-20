@@ -1,0 +1,19 @@
+body {
+    height: 500px;
+    width: 500px;
+    background-color: pink;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 4rem;
+    box-sizing: border-box;
+    transition: background-color .6s;
+}
+
+.heading {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 1rem;
+}
